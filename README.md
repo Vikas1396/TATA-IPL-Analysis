@@ -5,12 +5,12 @@ This dashboard offers deep insights into player performance, team stats, and mat
 
 # Dashboard Highlights
 
-# Orange Cap & Purple Cap : Identify top run-scorer and wicket-taker
-# Top 5 Batsmen & Bowlers: Visual comparison with dynamic filters
-# Strike Rate, 4s & 6s : Individual batting performance breakdown
-# Most Player of the Match Winners
-# Winning Teams and Tournament Summary
-# Year Filter to drill down season-wise stats
+- Orange Cap & Purple Cap : Identify top run-scorer and wicket-taker
+- Top 5 Batsmen & Bowlers: Visual comparison with dynamic filters
+- Strike Rate, 4s & 6s : Individual batting performance breakdown
+- Most Player of the Match Winners
+- Winning Teams and Tournament Summary
+- Year Filter to drill down season-wise stats
 
 Tools & Skills Used
 
